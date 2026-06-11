@@ -16,7 +16,6 @@ def download_gpt2_files(model_size, model_dir):
         "checkpoint",
         "encoder.json",
         "hparams.json",
-        "model.ckpt.data-00000-of-00001",
         "model.ckpt.index",
         "model.ckpt.meta",
         "vocab.bpe",
